@@ -181,6 +181,7 @@ member of the image, the consumer can use the image, regardless of the
 image member status.
 
 .. image:: /_images/image-member.png
+
             Sharing an image
 .. note::
    In the Cloud Images API, the image member status serves three
